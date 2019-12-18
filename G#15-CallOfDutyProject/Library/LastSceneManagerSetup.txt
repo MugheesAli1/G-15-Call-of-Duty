@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/G15_MainMenu.unity
+  isLoaded: 1
+  isActive: 1

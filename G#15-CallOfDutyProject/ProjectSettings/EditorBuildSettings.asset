@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/G15_MainMenu.unity
+    guid: 199a5e877877db147b310c12575a99d5
+  - enabled: 1
+    path: Assets/Scenes/G15_L1_MugheesMain.unity
+    guid: 255d82ef7ac6ea2428f49b9cfeb49a92
+  - enabled: 1
+    path: Assets/Scenes/G15_L1_MugheesMachine.unity
+    guid: cd7cc3c46db082243a5865d3acebcba9
+  - enabled: 1
+    path: Assets/Scenes/G15_Palindromescene.unity
+    guid: cc1234865a096ec4c9897ce48fe303bf
+  - enabled: 1
+    path: Assets/Scenes/G15_L3_SajidMain.unity
+    guid: 08e761cd6dced7449aa6da973d133d4d
+  - enabled: 1
+    path: Assets/Scenes/G15_L3_SajidMachine.unity
+    guid: 8fc592a4b25bf484197ba7b43ff8d300
+  - enabled: 1
+    path: Assets/Scenes/G15_L2_AmmadMain.unity
+    guid: 8985b8bbaa8e4b34e926a9b3f6b18634
+  - enabled: 1
+    path: Assets/Scenes/G15_L2_AmmadMachine.unity
+    guid: 660cf8194427a6b41ae3cdf8febe0d70
+  m_configObjects: {}
