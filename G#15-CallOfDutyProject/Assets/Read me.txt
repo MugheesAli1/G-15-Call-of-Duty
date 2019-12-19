@@ -1,1 +1,0 @@
-This Program is about the turing machine simulation.
